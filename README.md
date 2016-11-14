@@ -1,5 +1,5 @@
 #**OneLogin Add Role**
-## A GUI-based Utility for adding user to a role in OneLogin from a spreadsheet
+## A GUI-based Utility for adding users to a role in OneLogin from a spreadsheet
 ###Build:  
 requires Java 8
 *	git clone https://github.com/arjchenn/ioc-wizard.git  
